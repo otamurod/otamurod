@@ -7,6 +7,7 @@
 - 🔭 I’m currently focusing on Android Development
 - 📫 To reach me: [Otamurod](https://otamurod.github.io) 
 - ⚡ [My portfolio](https://github.com/otamurod)
+-  ⚡ [My Resume](https://github.com/otamurod/resume)
 - 🧩 Skills: C++, Java, Kotlin, Php, HTML5, CSS3, MySQL, Pascal, and etc
 - 🖼 Other skills: Laravel Framework, UX/UI Design
 - 💻 OS: Ubuntu 20.04 LTS, Windows 10, Android
