@@ -12,7 +12,6 @@
 - 🖼 Other skills: Laravel Framework, UX/UI Design
 - 💻 OS: Ubuntu 20.04 LTS, Windows 10, Android
 - 🔧 IDE: CLion, VsCode(or Visual Studio), Android Studio, PhpStorm, Intellij IDEA Ultimate ...
-- 😄 Fun fact: Looking for a lover 🧐
 
 
 ##
