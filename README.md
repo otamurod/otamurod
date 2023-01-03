@@ -4,7 +4,7 @@
 - 👦 I want to be a skilled backend software developer. 
 
 - 💻 I’m a junior Java backend developer
-- 🔭 I’m currently focusing on Android Development
+- 🔭 I’m an Android Developer
 - 📫 To reach me: [Otamurod](https://otamurod.github.io) 
 - ⚡ [My portfolio](https://github.com/otamurod)
 -  ⚡ [My Resume](https://github.com/otamurod/resume)
