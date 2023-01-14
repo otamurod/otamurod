@@ -6,7 +6,7 @@
 - 💻 I’m a junior Java backend developer
 - 🔭 I’m an Android Developer
 - 📫 To reach me: [Otamurod](https://otamurod.github.io) 
-- ⚡ [My portfolio](https://github.com/otamurod)
+- ⚡ [My portfolio]([https://github.com/otamurod](https://otamurods-devpage.jimdosite.com/))
 -  ⚡ [My Resume](https://github.com/otamurod/resume)
 - 🧩 Skills: C++, Java, Kotlin, Php, HTML5, CSS3, MySQL, Pascal, and etc
 - 🖼 Other skills: Laravel Framework, UX/UI Design
