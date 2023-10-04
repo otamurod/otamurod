@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Welcome+To+My+Github+Profile;Find+Out+My+All+Projects+Here..." alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Welcome+To+My+Github+Profile;Find+Out+My+Awesome+Projects+Here..." alt="Typing SVG">
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/otamurod">
-    <img src="https://komarev.com/ghpvc/?username=otamurod&&style=flat-square" align="center" height='25px' />
+    <img src="https://komarev.com/ghpvc/?username=otamurod&&style=for-the-badge" alt="Profile Views" />
   </a>
   
   <a href="https://github.com/otamurod?tab=followers">
