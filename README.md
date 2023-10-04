@@ -27,6 +27,20 @@
   </ul>
 </p>
 
+<p align="center">
+  <h2 align="center">Profile Stats</h2>
+</p>
+
+<p align="center">
+  <a href="https://github.com/otamurod">
+    <img src="https://komarev.com/ghpvc/?username=otamurod&&style=flat-square" align="center" height='25px' />
+  </a>
+  
+  <a href="https://github.com/otamurod?tab=followers">
+    <img src="https://img.shields.io/github/followers/otamurod?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  </a> 
+</p>
+
 <!-- Image -->
 <p align="center">
   <img height="70em" src="http://cdn.onlinewebfonts.com/svg/img_529337.png">
