@@ -16,14 +16,14 @@
 <!-- Bio and Skills -->
 <p align="center"> 
   <ul>
-    <li>🔭 I’m a Native Android Developer</li>
+    <li>🔭 I’m a Native Android Developer | Full Stack KMP Developer</li>
     <li>📫 To reach me: <a href="https://otamurod.github.io">Otamurod</a></li>
     <li>⚡ <a href="https://otamurods-devpage.jimdosite.com/">My portfolio</a></li>
     <li>⚡ <a href="https://github.com/otamurod/resume">My Resume</a></li>
     <li>🧩 Skills: C++, Java, Kotlin, Php, HTML5, CSS3, MySQL, Pascal, and etc</li>
     <li>🖼 Other skills: Laravel Framework, UX/UI Design</li>
-    <li>💻 OS: Ubuntu 20.04 LTS, Windows 10, Android</li>
-    <li>🔧 IDE: CLion, VsCode(or Visual Studio), Android Studio, PhpStorm, Intellij IDEA Ultimate</li>
+    <li>💻 OS: MacOS, Ubuntu 20.04 LTS, Windows 10, Android, iOS</li>
+    <li>🔧 IDE: CLion, VsCode(or Visual Studio), Android Studio, Xcode, PhpStorm, Intellij IDEA Ultimate</li>
   </ul>
 </p>
 
@@ -65,7 +65,11 @@
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> </a> 
+  <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/apple.svg" alt="iOS" width="40" height="40"/> </a>
+  <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio" width="40" height="40"/> </a> 
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/xcode.svg" alt="Xcode" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/lp/compose-multiplatform/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/compose-multiplatform.svg" alt="compose-multiplatform" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
