@@ -38,7 +38,29 @@
   
   <a href="https://github.com/otamurod?tab=followers">
     <img src="https://img.shields.io/github/followers/otamurod?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
-  </a> 
+  </a>  
+</p>
+
+<!-- Total time coded -->
+<p align="center">
+  <h2 align="center">📊 Total time coded </h2>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@018af96f-cc66-4e21-a00c-028b0e9f72bb">
+    <img src="https://wakatime.com/badge/user/018af96f-cc66-4e21-a00c-028b0e9f72bb.svg?style=for-the-badge" alt="Total time coded since Oct 4 2023" />
+  </a>
+</p>
+
+<!-- Weekly development breakdown -->
+<p align="center">
+  <h2 align="center">📊 Weekly development breakdown</h2>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@otamurod">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=otamurod&theme=radical" alt="Otamurod's Wakatime Stats">
+  </a>
 </p>
 
 <!-- Image -->
@@ -82,17 +104,6 @@
 <p align="center">
   <h2 align="center">Contribution Diagram</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=otamurod&theme=dracula" alt="Otamurod's Github Activity Graph">
-</p>
-
-<!-- Weekly development breakdown -->
-<p align="center">
-  <h2 align="center">📊 Weekly development breakdown</h2>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@otamurod">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=otamurod&theme=radical" alt="Otamurod's Wakatime Stats">
-  </a>
 </p>
 
 <!-- Closing statement -->
