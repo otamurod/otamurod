@@ -41,6 +41,11 @@
   </a>  
 </p>
 
+<!-- Image -->
+<p align="center">
+  <img height="70em" src="http://cdn.onlinewebfonts.com/svg/img_529337.png">
+</p>
+
 <!-- Total time coded -->
 <p align="center">
   <h2 align="center">📊 Total time coded </h2>
@@ -63,9 +68,18 @@
   </a>
 </p>
 
-<!-- Image -->
+<!-- Languages & Coding Activity -->
 <p align="center">
-  <img height="70em" src="http://cdn.onlinewebfonts.com/svg/img_529337.png">
+  <table style="width:100%;" align="center">
+    <tr>
+        <td style="width:100%; text-align:center;">
+            <img src="https://wakatime.com/share/@otamurod/681132bf-28b1-4917-a13c-d8eb1ee9a106.svg" style="width:100%;"/>
+        </td>
+        <td style="width:100%; text-align:center;">
+            <img src="https://wakatime.com/share/@otamurod/e426474e-26a6-4737-9a69-e8a5f141d0b7.svg" style="width:100%;"/>
+        </td>
+    </tr>
+</table>
 </p>
 
 <!-- GitHub Stats -->
