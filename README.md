@@ -19,7 +19,7 @@
     <li>🔭 I’m a Native Android Developer | Full Stack KMP Developer</li>
     <li>📫 To reach me: <a href="https://otamurod.github.io">Otamurod</a></li>
     <li>⚡ <a href="https://otamurods-devpage.jimdosite.com/">My portfolio</a></li>
-    <li>⚡ <a href="https://github.com/otamurod/resume">My Resume</a></li>
+    <li>⚡ <a href="https://app.enhancv.com/share/1c7c8112/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">My Resume</a></li>
     <li>🧩 Skills: C++, Java, Kotlin, Php, HTML5, CSS3, MySQL, Pascal, and etc</li>
     <li>🖼 Other skills: Laravel Framework, UX/UI Design</li>
     <li>💻 OS: MacOS, Ubuntu 20.04 LTS, Windows 10, Android, iOS</li>
