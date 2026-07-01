@@ -1,102 +1,57 @@
-<!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+There+👋&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=170&section=header&text=Otamurod%20Safarov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Android%20Engineer%20%7C%20Kotlin%20Multiplatform%20Developer&descSize=17&descColor=d8b4fe&descAlignY=60"/>
 </p>
 
-<!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Welcome+To+My+Github+Profile;Find+Out+My+Projects+Here..." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9F67FF&center=true&vCenter=true&width=720&lines=Senior+Android+Engineer;Kotlin+Multiplatform+Developer;Jetpack+Compose+%7C+Clean+Architecture+%7C+MVVM;Building+Production+Mobile+Applications"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/otamurod-safarov">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:otamurod.safarov.jobs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=6808076315340974036">
+    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  </a>
+  <a href="https://otamurod.github.io">
+    <img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
-<!-- Introduction -->
-<h1 align="center">I'm Otamurod Safarov, Bachelor of Science in Computer Science & Software Engineering, IUT.</h1>
+---
 
-<!-- Bio and Skills -->
-<p align="center"> 
-  <ul>
-    <li>🔭 I’m a Native Android Developer | Full Stack KMP Developer</li>
-    <li>📫 To reach me: <a href="https://otamurod.github.io">Otamurod</a></li>
-    <li>⚡ <a href="https://otamurods-devpage.jimdosite.com/">My portfolio</a></li>
-    <li>⚡ <a href="https://app.enhancv.com/share/1c7c8112/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">My Resume</a></li>
-    <li>🧩 Skills: C++, Java, Kotlin, Php, HTML5, CSS3, MySQL, Pascal, and etc</li>
-    <li>🖼 Other skills: Laravel Framework, UX/UI Design</li>
-    <li>💻 OS: MacOS, Ubuntu 20.04 LTS, Windows 10, Android, iOS</li>
-    <li>🔧 IDE: CLion, VsCode(or Visual Studio), Android Studio, Xcode, PhpStorm, Intellij IDEA Ultimate</li>
-  </ul>
-</p>
+# 👋 About Me
 
-<p align="center">
-  <h2 align="center">Profile Stats</h2>
-</p>
+Senior Android Engineer with **5+ years** of experience building production Android and Kotlin Multiplatform applications across startups and enterprise teams.
 
-<p align="center">
-  <a href="https://github.com/otamurod">
-    <img src="https://komarev.com/ghpvc/?username=otamurod&&style=for-the-badge" alt="Profile Views" />
-  </a>
-  
-  <a href="https://github.com/otamurod?tab=followers">
-    <img src="https://img.shields.io/github/followers/otamurod?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
-  </a>  
-</p>
+I specialize in **Kotlin**, **Jetpack Compose**, **Kotlin Multiplatform**, **Clean Architecture**, and scalable multi-module applications. I enjoy modernizing legacy codebases, improving app stability, and delivering maintainable, production-ready software.
 
-<!-- Image -->
-<p align="center">
-  <img height="70em" src="http://cdn.onlinewebfonts.com/svg/img_529337.png">
-</p>
+- 📍 Tashkent, Uzbekistan
+- 🌍 Open to Remote Senior Android & Kotlin Multiplatform opportunities
+- 📱 Creator of **Nurul Quran** — **3K+ downloads · ⭐ 5.0 · Ad-free**
+- 🎓 Ranked **1st among 337 Computer Science students** at Inha University in Tashkent in last semester, resulted the CGPA of 3.85/4.5
+- 🏢 Senior Android Engineer @ ex-Softonic Uzbekistan • ex-Green Light ELD • ex-TaffHub
 
-<!-- Total time coded -->
-<p align="center">
-  <h2 align="center">📊 Total time coded </h2>
-</p>
+---
 
-<p align="center">
-  <a href="https://wakatime.com/@018af96f-cc66-4e21-a00c-028b0e9f72bb">
-    <img src="https://wakatime.com/badge/user/018af96f-cc66-4e21-a00c-028b0e9f72bb.svg?style=for-the-badge" alt="Total time coded since Oct 4 2023" />
-  </a>
-</p>
+# 💼 Core Expertise
 
-<!-- Weekly development breakdown -->
-<p align="center">
-  <h2 align="center">📊 Weekly development breakdown</h2>
-</p>
+- Android Application Development
+- Kotlin Multiplatform
+- Jetpack Compose
+- Clean Architecture
+- Modular Architecture
+- MVVM • MVI • MVP
+- Performance Optimization
+- Legacy Code Modernization
+- REST API Integration
+- Code Reviews
+- Agile / Scrum
 
-<p align="center">
-  <a href="https://wakatime.com/@otamurod">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=otamurod&theme=radical" alt="Otamurod's Wakatime Stats">
-  </a>
-</p>
-
-<!-- Languages & Coding Activity -->
-<p align="center">
-  <table style="width:100%;" align="center">
-    <tr>
-        <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@otamurod/681132bf-28b1-4917-a13c-d8eb1ee9a106.svg" style="width:100%;"/>
-        </td>
-        <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@otamurod/e426474e-26a6-4737-9a69-e8a5f141d0b7.svg" style="width:100%;"/>
-        </td>
-    </tr>
-</table>
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" />
-  <h2 align="center">GitHub Stats</h2>
-  <a href="https://github.com/otamurod">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=otamurod&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otamurod&show_icons=true&theme=tokyonight&layout=compact" alt="otamurod" />
-  </a>
-</p>
-
-<!-- GitHub Rankings -->
-<p align="center">
-  <h2 align="center">GitHub Rankings</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=otamurod&theme=radical" alt="GitHub Ranks" />
-</p>
+---
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
@@ -114,13 +69,138 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
-<!-- Contribution Diagram -->
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+### 📱 Android
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square)
+![XML](https://img.shields.io/badge/XML-4285F4?style=flat-square)
+![ViewModel](https://img.shields.io/badge/ViewModel-4285F4?style=flat-square)
+![Navigation](https://img.shields.io/badge/Navigation-4285F4?style=flat-square)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square)
+![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square)
+![DataStore](https://img.shields.io/badge/DataStore-3DDC84?style=flat-square)
+
+### 🚀 Kotlin Multiplatform
+
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-7F52FF?style=flat-square)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=apple&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-7F52FF?style=flat-square)
+
+### 🏛 Architecture
+
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1e1e2e?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-1e1e2e?style=flat-square)
+![MVI](https://img.shields.io/badge/MVI-1e1e2e?style=flat-square)
+![MVP](https://img.shields.io/badge/MVP-1e1e2e?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-1e1e2e?style=flat-square)
+![Modularization](https://img.shields.io/badge/Modularization-1e1e2e?style=flat-square)
+
+### ⚡ Asynchronous Programming
+
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat-square)
+![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=flat-square)
+
+### 🌐 Networking
+
+![Ktor](https://img.shields.io/badge/Ktor-7F52FF?style=flat-square)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=flat-square)
+![OkHttp](https://img.shields.io/badge/OkHttp-009688?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
+
+### 🧩 Dependency Injection
+
+![Koin](https://img.shields.io/badge/Koin-5E35B1?style=flat-square)
+![Dagger](https://img.shields.io/badge/Dagger-2E7D32?style=flat-square)
+![Hilt](https://img.shields.io/badge/Hilt-2E7D32?style=flat-square)
+
+### 🧪 Testing
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square)
+![MockK](https://img.shields.io/badge/MockK-FF9800?style=flat-square)
+![Mockito](https://img.shields.io/badge/Mockito-4CAF50?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-3949AB?style=flat-square)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-3949AB?style=flat-square)
+
+### ☁ Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+### ☁ Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+### ⚙ DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-414141?style=flat-square&logo=google-play&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+> **Additional experience with:** Paging 3, CameraX, Media3 (ExoPlayer), Coil, Glide, Volley, Google Maps SDK, Google Play Billing, Deep Links, App Links, Firebase Cloud Messaging (FCM), Firebase Crashlytics, Firebase Analytics, Firebase Remote Config, LiveData, SQL, CI/CD, GitLab CI, Google Play publishing and more.
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <h2 align="center">Contribution Diagram</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otamurod&theme=dracula" alt="Otamurod's Github Activity Graph">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=otamurod&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otamurod&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- Closing statement -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Take+Care&height=100&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otamurod&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+# ⏱ Coding Activity
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/018af96f-cc66-4e21-a00c-028b0e9f72bb.svg"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|:--|:--|:--|
+| 🕌 **Nurul Quran** | Kotlin Multiplatform • Compose Multiplatform | 3K+ downloads • ⭐ 5.0 • Ad-free • Published on Google Play |
+| 🛍 **KMP E-Commerce** | Kotlin Multiplatform | Shared business logic across Android & iOS |
+| 📚 **Android Architecture Samples** | Kotlin • Jetpack Compose | Clean Architecture • MVVM • Best Practices |
+
+---
+
+<p align="center">
+  <a href="https://github.com/otamurod">
+    <img src="https://komarev.com/ghpvc/?username=otamurod&style=for-the-badge&color=7C3AED"/>
+  </a>
+  <a href="https://github.com/otamurod?tab=followers">
+    <img src="https://img.shields.io/github/followers/otamurod?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer"/>
 </p>
