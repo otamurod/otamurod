@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=170&section=header&text=Otamurod%20Safarov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Android%20Engineer%20%7C%20Kotlin%20Multiplatform%20Developer&descSize=17&descColor=d8b4fe&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=170&section=header&text=Otamurod%20Safarov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Middle%20Android%20Engineer%20%7C%20Kotlin%20Multiplatform%20Developer&descSize=17&descColor=d8b4fe&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9F67FF&center=true&vCenter=true&width=720&lines=Senior+Android+Engineer;Kotlin+Multiplatform+Developer;Jetpack+Compose+%7C+Clean+Architecture+%7C+MVVM;Building+Production+Mobile+Applications"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9F67FF&center=true&vCenter=true&width=720&lines=Middle+Android+Engineer;Kotlin+Multiplatform+Developer;Jetpack+Compose+%7C+Clean+Architecture+%7C+MVVM;Building+Production+Mobile+Applications"/>
 </p>
 
 <p align="center">
@@ -25,15 +25,15 @@
 
 # 👋 About Me
 
-Senior Android Engineer with **5+ years** of experience building production Android and Kotlin Multiplatform applications across startups and enterprise teams.
+Middle Android Engineer with **4+ years** of experience building production Android and Kotlin Multiplatform applications across startups and enterprise teams.
 
 I specialize in **Kotlin**, **Jetpack Compose**, **Kotlin Multiplatform**, **Clean Architecture**, and scalable multi-module applications. I enjoy modernizing legacy codebases, improving app stability, and delivering maintainable, production-ready software.
 
 - 📍 Tashkent, Uzbekistan
-- 🌍 Open to Remote Senior Android & Kotlin Multiplatform opportunities
+- 🌍 Open to Middle+/Senior Android & Kotlin Multiplatform opportunities
 - 📱 Creator of **Nurul Quran** — **3K+ downloads · ⭐ 5.0 · Ad-free**
 - 🎓 Ranked **1st among 337 Computer Science students** at Inha University in Tashkent in last semester, resulted the CGPA of 3.85/4.5
-- 🏢 Senior Android Engineer @ ex-Softonic Uzbekistan • ex-Green Light ELD • ex-TaffHub
+- 🏢 Middle Android Engineer @ ex-Softonic Uzbekistan • ex-Green Light ELD • ex-TaffHub
 
 ---
 
